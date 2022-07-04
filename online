@@ -1,6 +1,6 @@
 {
   "Version": "1.1",
-  "ReleaseNotes": "CONFIGURAÇÃO VIVO ADICIONADAS\n\n• POR FAVOR ATUALIZAR PARA UTILIZAR AS NOVAS OPÇÕES DA VIVO\n\n• DISPONÍVEL NAS OPÇÕES:\n\n• VIVO FAZ O TESTE [01]\n• VIVO FAZ O TESTE [02]\n •VIVO FAZ O TESTE [03]\n• VIVO FAZ O TESTE [04]",
+  "ReleaseNotes": "CONFIGURAÇÃO VIVO ADICIONADAS\n\n• POR FAVOR ATUALIZAR PARA UTILIZAR AS NOVAS OPÇÕES DA VIVO\n\n• DISPONÍVEL NAS OPÇÕES:\n\n• VIVO FAZ O TESTE [01]\n• VIVO FAZ O TESTE [02]\n •VIVO FAZ O TESTE [03]\n• VIVO FAZ O TESTE [04]\n• VIVO FAZ O TESTE [05]",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/UPDATE/main/online",
   "Sms": "https://raw.githubusercontent.com/luffyelbrabo/SMS/main/TODOS_APKS",
   "EmailFeedback": "",
@@ -52,7 +52,7 @@
       "Payload": "GET wss://onepiece.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "onepiece.com",
       "TlsIP": "unpkg.com",
-      "ProxyIP": "unpkg.com",
+      "ProxyIP": "104.21.11.51",
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
@@ -63,6 +63,16 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "172.67.165.43",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO FAZ O TESTE [05]",
+      "FLAG": "vivo",
+      "Payload": "GET /? HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.21.11.51",
       "ProxyPort": "80",
       "Info": "Proxy"
     },

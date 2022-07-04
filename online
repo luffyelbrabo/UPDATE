@@ -1,11 +1,11 @@
 {
-  "Version": "1.1",
+  "Version": "1.0",
   "ReleaseNotes": "CONFIGURAÇÃO VIVO ADICIONADAS\n\n• POR FAVOR ATUALIZAR PARA UTILIZAR AS NOVAS OPÇÕES DA VIVO\n\n• DISPONÍVEL NAS OPÇÕES:\n\n• VIVO EASY [02]\n• VIVO EASY [03]\n •VIVO EASY [04]\n• VIVO EASY [05]",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/UPDATE/main/online",
-  "Sms": "https://raw.githubusercontent.com/Matheusreiv/NETOLLYVPN/main/SMS",
+  "Sms": "https:"",
   "EmailFeedback": "",
   "UrlContato": "",
-  "UrlTermos": "https://sites.google.com/view/termosdeusonetollyvpn",
+  "UrlTermos": "",
   "CheckUser": "true",
   "Udp": [
     {

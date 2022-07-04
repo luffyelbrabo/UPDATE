@@ -2,7 +2,7 @@
   "Version": "1.0",
   "ReleaseNotes": "CONFIGURAÇÃO VIVO ADICIONADAS\n\n• POR FAVOR ATUALIZAR PARA UTILIZAR AS NOVAS OPÇÕES DA VIVO\n\n• DISPONÍVEL NAS OPÇÕES:\n\n• VIVO EASY [02]\n• VIVO EASY [03]\n •VIVO EASY [04]\n• VIVO EASY [05]",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/UPDATE/main/online",
-  "Sms": "https:"",
+  "Sms": "https://raw.githubusercontent.com/luffyelbrabo/SMS/main/TODOS_APKS",
   "EmailFeedback": "",
   "UrlContato": "",
   "UrlTermos": "https://raw.githubusercontent.com/luffyelbrabo/TERMOS_DE_USO/main/VPN",
@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR (BR01)",
+      "Name": "SERVIDOR (BR 🇧🇷)",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "luffyelbrabo.xyz",

@@ -5,7 +5,7 @@
   "Sms": "https:"",
   "EmailFeedback": "",
   "UrlContato": "",
-  "UrlTermos": "",
+  "UrlTermos": "https://raw.githubusercontent.com/luffyelbrabo/TERMOS_DE_USO/main/VPN",
   "CheckUser": "true",
   "Udp": [
     {

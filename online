@@ -1,11 +1,11 @@
 {
   "Version": "1",
   "ReleaseNotes": "",
-  "UrlUpdate": "https://bitbin.it/qWjkgHF1luffy/raw/",
+  "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/UPDATE/main/online",
   "CheckUser": "true",
    "Online": "true",
     "UdpPort": "7300",
-  "Sms": "https://bitbin.it/hbCS73sGluffy/raw/",
+  "Sms": "https://raw.githubusercontent.com/luffyelbrabo/UPDATE/main/sms/msg.js",
   "Servers": [
     {
        "Name": "Vivo",
